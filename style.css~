@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.navbar {
+	background-color: #53C1F5;
+}
+
+.row {
+	background-color: #f9f9f9;
+}
+.gambar {
+	width: 400px;
+	height: 10px auto;
+	margin-top: 10px;
+	margin-left: 140px;
+	margin-bottom: 20px; 
+	box-shadow: 0 0 5px #aaa;
+}
+
+
+footer {
+    clear: both;
+    text-align: left;
+    height: 1px;
+    font-size: 10px;
+} 
